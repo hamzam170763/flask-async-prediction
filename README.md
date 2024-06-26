@@ -24,7 +24,7 @@ flask_app/
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/hamzam170763/flask-async-prediction.git
    cd your-repo-name
 
 2. **Build the Docker image:**
